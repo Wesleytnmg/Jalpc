@@ -1,30 +1,44 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
+    detail: Missouri Southern State University IT Department
     i18n: company_a
   desc:
-    detail: I worked at Company A ...
+    detail: Planning, engineering, and monitoring the security arrangements for the protection of the network systems. Identifying, monitoring, and defining the requirements of the overall security of the system.
     i18n: company_a_desc
   date:
-    detail: Apr. 2016
+    detail: 2018-Present
     i18n: company_a_date
   job:
-    detail: CTO
+    detail: Cyber Security Technician
     i18n: company_a_job
   icon: fa-plus-square
   present: true
 
 - name:
-    detail: Company B
+    detail: Missouri Southern State University
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: Installs hardware and peripheral components such as monitors, keyboards, printers, scanners, network cards (including wireless) and disk drives. Troubleshooting hardware and software issues on all campus devices.
     i18n: company_b_desc
   date:
-    detail: Jun. 2015
+    detail: 2017-2018
     i18n: company_b_date
   job:
-    detail: Full Stack Developer
+    detail: User Services Technician
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: Rapha House International
+    i18n: company_b
+  desc:
+    detail: Assist Media Director with producing materials and reordering Print materials according to brand. Assist Media Director with producing creative graphics, audio, and video across social media platforms. Produce Print designs for the organization and ambassadors of the organization.
+    i18n: company_b_desc
+  date:
+    detail: 2017-2018
+    i18n: company_b_date
+  job:
+    detail: Media Intern
     i18n: company_b_job
   icon: fa-plus-square
