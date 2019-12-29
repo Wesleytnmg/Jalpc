@@ -3,14 +3,14 @@
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 - name: Missouri Southern State University 
   i18n: jalpc
-  gh_user: jarrekk
-  repo: Jalpc
+  gh_user: 
+  repo: 
   img: /static/assets/img/landing/mssu.png
   desc: Criminal Justice Administration, BS, 2020
 
 - name: Ozark Christian College
   i18n: cpython
-  gh_user: python
-  repo: cpython
+  gh_user: 
+  repo: 
   img: /static/assets/img/landing/occ.jpeg
   desc: Interdisciplinary Studies, BA, 2020
