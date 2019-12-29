@@ -16,7 +16,7 @@
   present: true
 
 - name:
-    detail: Missouri Southern State University
+    detail: Missouri Southern State University IT Department
     i18n: company_b
   desc:
     detail: Installs hardware and peripheral components such as monitors, keyboards, printers, scanners, network cards (including wireless) and disk drives. Troubleshooting hardware and software issues on all campus devices.
