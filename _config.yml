@@ -14,7 +14,7 @@ author:  # change following line to your infomation.
   name: Timothy Wesley  # Be used at blog posts' author.
   first_name: Timothy  # Be used at index page about me section.
   last_name: Wesley  # Be used at index page about me section.
-  avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
+  avatar: /static/assets/img/landing/avatar.jpeg  # upload your avatar at directory and edit it.
   github_username: wesleytnmg  # Leave blank if you don't have now
   linkedin_id: timothy-wesley # Leave blank if you don't have now
   facebook_username:   # Leave blank if you don't have now
