@@ -3,7 +3,7 @@
 #
 # Images are expected to be located in `static/assets/img/`.
 - src: landing/Ban1.png
-  title: first banner image
+  title: banner one
 
 - src: landing/Ban2.png
-  title: second banner image
+  title: banner two
